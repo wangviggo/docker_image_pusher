@@ -1,2 +1,3 @@
 nginx:latest
 postgres:13.12
+mrwsydocker/zabbix-proxy-postgres:14
