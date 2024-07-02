@@ -1,1 +1,2 @@
 nginx:latest
+postgres:13.12
