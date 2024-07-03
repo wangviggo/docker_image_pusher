@@ -1,5 +1,4 @@
 nginx:latest
-postgres:13.12
 mrwsydocker/zabbix-proxy-postgres:14
 zabbix/zabbix-build-pgsql
 zabbix/zabbix-server-pgsql
@@ -8,3 +7,4 @@ zabbix/zabbix-snmptraps
 zabbix/zabbix-java-gateway
 zabbix/zabbix-agent
 zabbix/zabbix-web-service
+postgres:13.15
