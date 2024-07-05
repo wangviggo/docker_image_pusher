@@ -1,5 +1,4 @@
 nginx:latest
-mrwsydocker/zabbix-proxy-postgres:14
 zabbix/zabbix-build-pgsql
 zabbix/zabbix-server-pgsql
 zabbix/zabbix-web-nginx-pgsql
@@ -9,4 +8,3 @@ zabbix/zabbix-agent
 zabbix/zabbix-web-service
 postgres:13.15
 alpine
-rockylinux
