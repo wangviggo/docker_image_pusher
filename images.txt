@@ -9,3 +9,4 @@ zabbix/zabbix-agent
 zabbix/zabbix-web-service
 postgres:13.15
 alpine
+rockylinux
