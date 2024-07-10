@@ -9,3 +9,4 @@ zabbix/zabbix-web-service
 postgres:13.15
 alpine
 rockylinux:9.3-minimal
+postgres:13.15-alpine3.20
